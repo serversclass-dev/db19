@@ -1,1 +1,21 @@
-{}
+{
+  "samar": {
+    "username": "samar",
+    "password": "Qsamar123@",
+    "student_type": "علمي",
+    "telegram_user_id": "8046511269",
+    "telegram_username": null,
+    "telegram_first_name": "Samora 💕",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_19.jpg",
+    "session_id": "81a6a318-2dcc-41c4-8af0-1a68fbe0e086",
+    "created_at": "2026-05-08T02:30:30.297749",
+    "verified": true,
+    "last_login": "2026-05-08T11:11:30.215222",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "statistics"
+    ],
+    "server_num": 19
+  }
+}
