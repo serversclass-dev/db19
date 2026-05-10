@@ -17,5 +17,33 @@
       "statistics"
     ],
     "server_num": 19
+  },
+  "nourannaje": {
+    "username": "nourannaje",
+    "password": "ZAenuTcdba4Kzf9",
+    "student_type": "علمي",
+    "telegram_user_id": "5782817660",
+    "telegram_username": null,
+    "telegram_first_name": "🌸",
+    "profile_photo_url": null,
+    "session_id": "7a9de27d-8794-414e-a01b-faf33bd3f37b",
+    "created_at": "2026-05-10T16:31:15.063990",
+    "verified": true,
+    "last_login": "2026-05-10T16:33:12.225051",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "math",
+      "english",
+      "it",
+      "physics_electric",
+      "chemistry",
+      "statistics",
+      "physics_mechanic",
+      "linguistic_studies",
+      "biology",
+      "literary_studies"
+    ],
+    "server_num": 19
   }
 }
